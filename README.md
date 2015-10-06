@@ -22,3 +22,5 @@ ODBC manager http://www.odbcmanager.net
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 brew install tesseract --all-languages
+
+toggle hidden files finder https://gist.github.com/romainmenke/1613e6c923e280d0d0ba
