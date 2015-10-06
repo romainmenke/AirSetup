@@ -11,6 +11,8 @@ Transmit
 
 WhatSize
 
+Skype http://www.skype.com
+
 Xcode
 
 GitHub desktop https://desktop.github.com
