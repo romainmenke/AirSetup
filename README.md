@@ -13,6 +13,10 @@ WhatSize
 
 Xcode
 
+GitHub desktop https://desktop.github.com
+
+ODBC manager http://www.odbcmanager.net
+
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 brew install tesseract --all-languages
