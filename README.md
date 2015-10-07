@@ -1,6 +1,6 @@
 # AirSetup
 
-Bar Magnet http://www.macupdate.com/app/mac/47785/bar-magnet
+Bar Magnet https://www.dropbox.com/sh/tab2mzuybswz87s/AAD73J-__qJpXqXc4uWYD-TTa?dl=0
   Transmission
   10.0.4.2
   9091
