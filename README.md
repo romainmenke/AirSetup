@@ -1,6 +1,7 @@
 # AirSetup
 
-Bar Magnet https://www.dropbox.com/sh/tab2mzuybswz87s/AAD73J-__qJpXqXc4uWYD-TTa?dl=0
+Bar Magnet https://www.dropbox.com/s/9xujmv3upt4tuuj/Bar%20Magnet.app.zip?dl=0
+
   Transmission
   10.0.4.2
   9091
