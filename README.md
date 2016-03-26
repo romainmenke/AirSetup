@@ -22,6 +22,8 @@ export GOPATH=$HOME/Go
 
 export Path="$Path:GOPATH/bin"
 
+. ~/.bash_profile
+
 brew install go
 
 
